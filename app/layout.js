@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Tender Watch Dashboard",
-  description: "Tender tracking dashboard",
+  title: "Tender Dashboard",
+  description: "Modus Rail Tender Dashboard",
 };
 
 export default function RootLayout({ children }) {
